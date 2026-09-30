@@ -1,0 +1,33 @@
+{
+  "idea": "Daves Coffee where you get AI tokens with your coffee purchase",
+  "templateId": "signature",
+  "content": {
+    "siteKind": "business",
+    "title": "Dave's Coffee",
+    "tagline": "Coffee meets AI tokens",
+    "intro": "At Dave's Coffee you enjoy a fresh brew and receive a digital AI token with every purchase, unlocking access to exclusive AI services.",
+    "sections": [
+      {
+        "title": "Our Brew",
+        "body": "Hand‑crafted espresso, pour‑over, and cold brew made from ethically sourced beans."
+      },
+      {
+        "title": "AI Tokens",
+        "body": "Each coffee comes with a QR‑code that grants a single AI token redeemable for chat, image generation, or code assistance."
+      },
+      {
+        "title": "Why Choose Us",
+        "body": "Combine your caffeine boost with instant AI power, perfect for students, creators, and professionals on the go."
+      }
+    ],
+    "cta": {
+      "label": "Order Now",
+      "note": "Get your coffee and AI token today"
+    },
+    "closing": {
+      "headline": "Fuel your mind and your machine",
+      "body": "Sip, scan, and start creating with AI in minutes."
+    },
+    "footerNote": "Brewed for the future"
+  }
+}
